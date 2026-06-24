@@ -21,7 +21,7 @@ spec:
       containers:
       - name: springboot-app
 
-        image: mangeshchauhan/test-application:latest
+        image: adminleena/3ri_devops:latest
 
         imagePullPolicy: Always
 
